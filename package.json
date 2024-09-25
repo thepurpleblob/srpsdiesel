@@ -1,8 +1,8 @@
 {
   "name": "qu-srpsdiesel",
   "version": "0.0.1",
-  "description": "SRPS Diesel website",
-  "productName": "srpsdieselapp",
+  "description": "SRPS Diesel Group",
+  "productName": "SRPS Diesel Group",
   "author": "Howard Miller <howardsmiller@gmail.com>",
   "private": true,
   "scripts": {
